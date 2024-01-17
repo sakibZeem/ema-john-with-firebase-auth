@@ -16,3 +16,6 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+.greet-user {
+    margin-left: 18px;
+}
